@@ -1,1 +1,1 @@
-# This app is not an
+# This app is not an app
